@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
+
+#signup-h1-logo {
+    width: 50px;
+    height: 55px;
+  
+}
+
+#signup-h1-logo-txt {
+   color: rgb(113, 136, 216);
+   
+}
+  
+
+body {
+   
+    color: white;
+    font-family: 'Poppins';
+    height: 100%;
+    text-align: center;
+    
+    background-image: url("0587f251249217.58e7079c0894c.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: fill; 
+    margin: auto;
+    
+}
+
+
+input {
+    text-align: center;
+    font-size: 15px;
+    height: 30px;
+    color: white;
+    background-color: black;
+    border-radius: 7px;
+    
+}
+
+
+#SignUp-button {
+    background-color: rgb(113, 136, 216);
+    font-size: large;
+    padding-bottom: 3px;
+    font-weight: bold;
+    border-color: rgb(113, 136, 216);
+    border-radius: 7px;
+    color: white;
+}
+
+form {
+    display: inline-block;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
